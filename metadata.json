@@ -1,0 +1,6 @@
+{
+  "name": "CastGrid",
+  "description": "Multi-device screen casting hub for real-time collaborative viewing on Firestick 4K.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
